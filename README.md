@@ -1,14 +1,8 @@
-# awesome-macos
+# Awesome macOS [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A curated list of useful applications and tools for macOS. The list is intended
-for Mac users, developers, and maintainers looking for practical software with
-clear project or download links.
+Apps and tools for Apple's macOS desktop operating system.
 
-Entries are reviewed for relevance, link quality, and accurate licensing or
-pricing labels. See [CONTRIBUTING.md](CONTRIBUTING.md) to propose an addition or
-report a correction.
-
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+Entries are reviewed for relevance, link quality, and accurate licensing or pricing labels. See [CONTRIBUTING.md](CONTRIBUTING.md) to propose an addition or report a correction.
 
 ![Open-Source Software][OSS Icon] means **open source**, click to open **open source** repo;\
 ![Freeware][Freeware Icon] means **free** to use, or **free** personal license;\
@@ -59,14 +53,14 @@ report a correction.
 - [ImageOptim](https://imageoptim.com/mac) - Removes bloated metadata. Saves disk space & bandwidth by compressing images without losing quality. [![Open-Source Software][OSS Icon]](https://github.com/ImageOptim/ImageOptim)
 - [Inkscape](https://inkscape.org/) - Vector graphics editor. [![Open-Source Software][OSS Icon]](https://inkscape.org/)
 - [Krita](https://krita.org/en/) - Free and open-source painting and sketching program. [![Open-Source Software][OSS Icon]](https://krita.org/en/)
-- [seashore](https://github.com/robaho/seashore) - easy to use mac osx image editing application for the rest of us [![Open-Source Software][OSS Icon]](https://github.com/robaho/seashore)
+- [Seashore](https://github.com/robaho/seashore) - An easy-to-use macOS image editor. [![Open-Source Software][oss icon]](https://github.com/robaho/seashore)
 
 ## Editors
 
 - [CodeEdit](https://github.com/CodeEditApp/CodeEdit) - A native, open-source code editor for macOS. [![Open-Source Software][OSS Icon]](https://github.com/CodeEditApp/CodeEdit)
 - [CotEditor](https://coteditor.com/) - Lightweight Plain-Text Editor for macOS. [![Open-Source Software][OSS Icon]](https://github.com/coteditor/CotEditor)
 - [Visual Studio Code](https://code.visualstudio.com/) - A code editor redefined and optimized for building and debugging modern web and cloud applications. [![Open-Source Software][OSS Icon]](https://github.com/Microsoft/vscode/)
-- [Zed](https://zed.dev/) - Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. [![Open-Source Software][OSS Icon]](https://zed.dev/)
+- [Zed](https://zed.dev/) - A high-performance, collaborative code editor from the creators of Atom and Tree-sitter. [![Open-Source Software][oss icon]](https://zed.dev/)
 
 ## Media players
 - [IINA](https://iina.io/) - The modern media player for macOS. [![Open-Source Software][OSS Icon]](https://github.com/iina/iina)
@@ -81,7 +75,7 @@ report a correction.
 - [RustDesk](https://rustdesk.com/) - A remote desktop software, the open source TeamViewer alternative, works out of the box, no configuration required. [![Open-Source Software][OSS Icon]](https://github.com/rustdesk/rustdesk)
 
 ## Utilities
-- [AltTab](https://alt-tab-macos.netlify.app/) - AltTab brings the power of Windows alt-tab to macOS. [![Open-Source Software][OSS Icon]](https://github.com/lwouis/alt-tab-macos)
+- [AltTab](https://alt-tab-macos.netlify.app/) - Adds Windows-style application switching to macOS. [![Open-Source Software][oss icon]](https://github.com/lwouis/alt-tab-macos)
 - [AppCleaner](https://freemacsoft.net/appcleaner/) - A small application which allows you to thoroughly uninstall unwanted apps. [![Freeware][Freeware Icon]](https://freemacsoft.net/appcleaner/)
 - [App Eraser](https://github.com/davunt/app-eraser) - Removes unwanted macOS applications and any related files that they leave behind. [![Open-Source Software][OSS Icon]](https://github.com/davunt/app-eraser)
 - [Battery charge limiter](https://github.com/actuallymentor/battery) - CLI/GUI for managing battery charging on Apple silicon Macs. [![Open-Source Software][OSS Icon]](https://github.com/actuallymentor/battery)
@@ -99,20 +93,20 @@ report a correction.
 - [LinearMouse](https://linearmouse.app/) - The mouse and trackpad utility for Mac. [![Freeware][Freeware Icon]](https://github.com/linearmouse/linearmouse)
 - [LocalSend](https://localsend.org/) - Open-source cross-platform alternative to AirDrop. [![Freeware][Freeware Icon]](https://github.com/localsend/localsend)
 - [Maccy](https://maccy.app/) - Lightweight clipboard manager for macOS. [![Open-Source Software][OSS Icon]](https://github.com/p0deje/Maccy)
-- [Maintenance](https://www.titanium-software.fr/en/maintenance.html) - Maintenance is an operating system maintenance and cleaning utility for macOS that you can use to perform miscellaneous tasks of computer maintenance: run periodic scripts; rebuild the databases; delete application, font, and system caches; and more. [![Freeware][Freeware Icon]](https://www.titanium-software.fr/en/maintenance.html)
+- [Maintenance](https://www.titanium-software.fr/en/maintenance.html) - Runs maintenance tasks such as periodic scripts, database rebuilding, and cache cleanup. [![Freeware][freeware icon]](https://www.titanium-software.fr/en/maintenance.html)
 - [MOS](https://mos.caldis.me/) - A lightweight tool for smooth scrolling and independent mouse scroll direction on macOS. [![Open-Source Software][OSS Icon]](https://mos.caldis.me/)
 - [Numi](https://numi.app/) - Beautiful calculator app for macOS. It allows you to describe tasks naturally and instantly get an accurate answer. For example, `$20 in euro - 5% discount` or `today + 2 weeks`. [![Open-Source Software][OSS Icon]](https://github.com/nikolaeu/numi)
 - [OmniDiskSweeper](https://www.omnigroup.com/more) - Quickly find large, unwanted files and sweep them into the trash. [![Freeware][Freeware Icon]](https://www.omnigroup.com/more)
 - [One Thing](https://apps.apple.com/us/app/one-thing/id1604176982?mt=12) - Put your most important task or goal in the menu bar. Its presence there will help remind you without being annoying. [![Freeware][Freeware Icon] ![App Store][app-store Icon]](https://apps.apple.com/us/app/one-thing/id1604176982?mt=12)
-- [OnyX](https://www.titanium-software.fr/en/onyx.html) - OnyX is a multifunction utility that you can use to verify the structure of the system files; run miscellaneous maintenance and cleaning tasks; configure parameters in the Finder, Dock, Safari, and some Apple applications; delete caches; remove certain problematic folders and files; rebuild various databases and indexes; and more. [![Freeware][Freeware Icon]](https://www.titanium-software.fr/en/onyx.html)
+- [OnyX](https://www.titanium-software.fr/en/onyx.html) - Verifies system files and provides maintenance, cleanup, and configuration tools. [![Freeware][freeware icon]](https://www.titanium-software.fr/en/onyx.html)
 - [Rectangle](https://rectangleapp.com/) - Move and resize windows in macOS using keyboard shortcuts or snap areas. [![Open-Source Software][OSS Icon]](https://github.com/rxhanson/Rectangle)
 - [SelfControl](https://selfcontrolapp.com/) - Mac app to block your own access to distracting websites etc. for a predetermined period of time. [![Open-Source Software][OSS Icon]](https://github.com/SelfControlApp/selfcontrol)
 - [SlimHUD](https://alexperathoner.github.io/SlimHUD/) - Replacement for macOS HUDs. [![Open-Source Software][OSS Icon]](https://alexperathoner.github.io/SlimHUD/)
 - [Tempbox](https://tempbox.waseem.works/) - Instant disposable emails for Mac powered by _Mail.tm_. [![Open-Source Software][OSS Icon]](https://github.com/devwaseem/TempBox)
 - [Transnomino](https://www.transnomino.com/) - A batch rename utility for the Mac. [![Freeware][Freeware Icon]](https://www.transnomino.com/)
-- [TinkerTool](https://www.bresink.com/osx/TinkerTool.html) - TinkerTool is an application that gives you access to additional preference settings Apple has built into macOS.
+- [TinkerTool](https://www.bresink.com/osx/TinkerTool.html) - Provides access to additional preference settings built into macOS.
 - [The Unarchiver](https://macpaw.com/the-unarchiver) - Unpack any archive, in no time. [![Freeware][Freeware Icon]](https://macpaw.com/the-unarchiver)
-- [Transmission](https://transmissionbt.com/) - Transmission is a fast, easy, and free BitTorrent client. [![Open-Source Software][OSS Icon]](https://github.com/transmission/transmission)
+- [Transmission](https://transmissionbt.com/) - A lightweight, open-source BitTorrent client. [![Open-Source Software][oss icon]](https://github.com/transmission/transmission)
 
 ## Wallpapers
 - [Every Default macOS Wallpaper](https://512pixels.net/projects/default-mac-wallpapers-in-5k/) - Every major version of macOS has come with a new default wallpaper. [![Freeware][Freeware Icon]](https://512pixels.net/projects/default-mac-wallpapers-in-5k/)
@@ -125,15 +119,15 @@ report a correction.
 - [Is Apple Silicon ready?](https://isapplesiliconready.com/) - A community reference for checking Apple silicon app compatibility.
 
 ## Related macOS lists
-- [![Awesome List][awesome-list Icon] agarrharr/awesome-macos-screensavers ![GitHub Repo stars](https://img.shields.io/github/stars/agarrharr/awesome-macos-screensavers)](https://github.com/agarrharr/awesome-macos-screensavers)
-- [![Awesome List][awesome-list Icon] iCHAIT/awesome-macOS ![GitHub Repo stars](https://img.shields.io/github/stars/iCHAIT/awesome-macOS)](https://github.com/iCHAIT/awesome-macOS)
-- [![Awesome List][awesome-list Icon] jaywcjlove/awesome-mac ![GitHub Repo stars](https://img.shields.io/github/stars/jaywcjlove/awesome-mac)](https://github.com/jaywcjlove/awesome-mac)
-- [![Awesome List][awesome-list Icon] serhii-londar/open-source-mac-os-apps ![GitHub Repo stars](https://img.shields.io/github/stars/serhii-londar/open-source-mac-os-apps)](https://github.com/serhii-londar/open-source-mac-os-apps)
+- [Awesome macOS Screensavers](https://github.com/agarrharr/awesome-macos-screensavers#readme) - Screensavers for macOS.
+- [Awesome macOS](https://github.com/iCHAIT/awesome-macOS#readme) - Applications and tools for macOS.
+- [Awesome Mac](https://github.com/jaywcjlove/awesome-mac#readme) - Applications and tools for macOS.
+- [Open Source macOS Apps](https://github.com/serhii-londar/open-source-mac-os-apps#readme) - Open-source applications for macOS.
 
 <p align="right"><a href="#awesome-macos"><b>↥ To the top</b></a></p>
 
-[OSS Icon]: https://raw.githubusercontent.com/MilanAryal/awesome-macos/main/svg/min-oss.svg "Open Source Software"
-[Freeware Icon]: https://raw.githubusercontent.com/MilanAryal/awesome-macos/main/svg/min-free.svg "Freeware"
-[app-store Icon]: https://raw.githubusercontent.com/MilanAryal/awesome-macos/main/svg/min-app-store.svg "App Store Software"
-[awesome-list Icon]: https://raw.githubusercontent.com/MilanAryal/awesome-macos/main/svg/min-awesome.svg "Awesome List"
-[Homebrew Icon]: https://raw.githubusercontent.com/MilanAryal/awesome-macos/main/svg/min-brew.svg "Homebrew"
+[oss icon]: https://raw.githubusercontent.com/MilanAryal/awesome-macos/main/svg/min-oss.svg 'Open Source Software'
+[freeware icon]: https://raw.githubusercontent.com/MilanAryal/awesome-macos/main/svg/min-free.svg 'Freeware'
+[app-store icon]: https://raw.githubusercontent.com/MilanAryal/awesome-macos/main/svg/min-app-store.svg 'App Store Software'
+[awesome-list icon]: https://raw.githubusercontent.com/MilanAryal/awesome-macos/main/svg/min-awesome.svg 'Awesome List'
+[homebrew icon]: https://raw.githubusercontent.com/MilanAryal/awesome-macos/main/svg/min-brew.svg 'Homebrew'
